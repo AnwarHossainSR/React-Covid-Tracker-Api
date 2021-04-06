@@ -5,4 +5,13 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-direction: column;
+}
+.coronaImage{
+    width: 310px;
+    height: 100px;
+    margin-top: 50px!important;
+}
+.cardss{
+    min-width: 3rem!important;
 }
